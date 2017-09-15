@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="프로필" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_input_black_24dp"
+        android:title="로그아웃" />
+    <item
+        android:id="@+id/nav_beacon"
+        android:icon="@drawable/ic_view_module_black_24dp"
+        android:title="비콘"/>
+    <item
+        android:id="@+id/nav_chatting"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="오픈채팅"/>
+    <item
+        android:id="@+id/nav_products"
+        android:icon="@drawable/ic_filter_list_black_24dp"
+        android:title="상품리스트"/>
+
+    <item
+        android:id="@+id/nav_beshop"
+        android:icon="@drawable/ic_android_black_48dp"
+        android:title="비트리버"/>
+</menu>

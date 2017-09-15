@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group  android:title="실내 포지셔닝 알고리즘"
+        android:id="@+id/grp1">
+    <item android:id="@+id/btn_average"
+        android:title="평균 크기"/>
+
+    <item android:title="피타고라스와 유클리드를 이용한 거리"
+        android:id="@+id/btn_triangle" />
+
+    </group>
+    <group android:title="거리 알고리즘"  android:id="@+id/grp2">
+        <item android:title="평균 거리"
+            android:id="@+id/btn_distance_average" />
+        <item android:title="중앙값 거리"
+            android:id="@+id/btn_distance_median" />
+        <item android:title="실제 거리"
+            android:id="@+id/btn_distance_real" />
+    </group>
+
+</menu>

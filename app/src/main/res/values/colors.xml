@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0ccdb2</color>
+    <color name="colorPrimaryDark">#0ba7cb</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorBGItem">#F5F5F5</color>
+    <color name="separator">#0affffff</color>
+    <color name="year">#d4d1d1</color>
+</resources>
